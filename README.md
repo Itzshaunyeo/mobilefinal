@@ -1,4 +1,4 @@
-# mobilefinal
+# Budget Tracker
 ## Budget tracker backend
 
 The app uses Clerk for authentication and Supabase for Postgres, Storage,
